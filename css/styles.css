@@ -1,2 +1,41 @@
-header{background-color: orange};
-#p1 {font-family: arial}; 
+#headWrapper{
+height: 200px;
+width: 800px;
+background-color: blue;
+}
+
+#menu{
+float: left;
+height: 380px;
+width: 100px;
+background-color: lime;
+}
+#contentWrapper{
+float: left;
+height: 380px;
+background-color: red;
+}
+#title{
+height: 80px;
+background-color: hotpink;
+width: 800px;
+}
+#buttons{
+height: 80px;
+background-color: green;
+
+}
+#results{
+height: 220px;
+background-color: orange;
+}
+#low{
+
+}
+#med{
+
+}
+#high{
+
+}
+
